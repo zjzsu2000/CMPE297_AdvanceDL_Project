@@ -26,6 +26,12 @@ the price. As we know there are many different strategies for options trading de
 on what we want to get and how much risk we are willing to expound, we will limit the
 features for the scope of this project.
 
+## Project Report and PPT presentation 
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Documentation
+### slides
+https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZKhY0/edit?usp=sharing
+### report
+
 
 ## Data Preprocessing and Crawler 
 ### code 
@@ -46,12 +52,6 @@ features for the scope of this project.
 
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Ask.png)
 
-
-## Project Report and PPT presentation 
-- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Documentation
-### slides
-https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZKhY0/edit?usp=sharing
-### report
 
 ## Training process
 

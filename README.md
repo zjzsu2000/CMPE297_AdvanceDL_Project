@@ -65,9 +65,9 @@ https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZK
 - Put21
 (https://tensorboard.dev/experiment/h5KIjLjiQPmdk9cvD9JD6A/)
 -  Call10
-![link](https://tensorboard.dev/experiment/9tG0Hv68TmyaI7NBnbr2Ow/)
+(https://tensorboard.dev/experiment/9tG0Hv68TmyaI7NBnbr2Ow/)
 -  Call21
-![link](https://tensorboard.dev/experiment/ZE4cErmZRXKKvUJRpHbjHQ/#scalars)
+(https://tensorboard.dev/experiment/ZE4cErmZRXKKvUJRpHbjHQ/#scalars)
 
 * Model2：			
 - Call 5		
@@ -83,14 +83,14 @@ https://tensorboard.dev/experiment/L208zOrlRziyfgiEm9RjjQ/#scalars
 https://tensorboard.dev/experiment/L208zOrlRziyfgiEm9RjjQ/
 	
 * Model3:			
-call5				
+- call5				
 https://tensorboard.dev/experiment/X4dEGe3NQbOBOU5vFzHQuw/
-Call21
+- call21
 https://tensorboard.dev/experiment/V2WF49BDQlK1spQ21eedfA/
 
-Put5
+- Put5
 https://tensorboard.dev/experiment/RY5C4BGKRIKpndYhO4sdqg/
-Put21
+- Put21
 https://tensorboard.dev/experiment/9zzUE8NcQoySec6DarEo9g/
 
 

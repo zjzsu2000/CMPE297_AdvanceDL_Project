@@ -31,13 +31,13 @@ features for the scope of this project.
 -https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Data_Preprocessing
 ## Models and Results 
 -https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/models
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png)
 
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_result.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_result.png)
 
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Bid.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Bid.png)
 
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Ask.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Ask.png)
 
 
 ## Project Report and PPT presentation 
@@ -48,13 +48,13 @@ https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZK
 
 ## Training process
 
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_tensorboard.png)
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model2_call_WIX.png)
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model2_put_all%EF%BC%88n400_batch1024_eposhs2400_lr1e-5).png)
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_call_all%EF%BC%88n400_batch1024_eposhs2000_lr1e-5).png)
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_call_all%EF%BC%88n400_batch1024_eposhs2000_lr1e-5).png)
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_sigma5.png)
-![image] (https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Errors.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_tensorboard.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model2_call_WIX.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model2_put_all%EF%BC%88n400_batch1024_eposhs2400_lr1e-5).png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_call_all%EF%BC%88n400_batch1024_eposhs2000_lr1e-5).png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_call_all%EF%BC%88n400_batch1024_eposhs2000_lr1e-5).png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_sigma5.png)
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Errors.png)
 
 ### TensorBoard
 * LSTM

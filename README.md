@@ -59,27 +59,27 @@ https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZK
 ### TensorBoard
 * LSTM
 -  Put5
-![link](https://tensorboard.dev/experiment/IN9XplUvRbqhaVBvCPIJSg/)
+(https://tensorboard.dev/experiment/IN9XplUvRbqhaVBvCPIJSg/)
 -  Put10
-![link](https://tensorboard.dev/experiment/oQljEuYVSvOLPDi17AtRww/#scalars)
-Put21
-![link](https://tensorboard.dev/experiment/h5KIjLjiQPmdk9cvD9JD6A/)
+(https://tensorboard.dev/experiment/oQljEuYVSvOLPDi17AtRww/#scalars)
+- Put21
+(https://tensorboard.dev/experiment/h5KIjLjiQPmdk9cvD9JD6A/)
 -  Call10
 ![link](https://tensorboard.dev/experiment/9tG0Hv68TmyaI7NBnbr2Ow/)
 -  Call21
 ![link](https://tensorboard.dev/experiment/ZE4cErmZRXKKvUJRpHbjHQ/#scalars)
 
 * Model2：			
-Call 5		
+- Call 5		
 https://tensorboard.dev/experiment/Bgx7f38NSgOtJQdNMXI9JA/#scalars
-call10	
+- call10	
 https://tensorboard.dev/experiment/y9MuyU77Tymi0Uz1Yb0NSA/#scalars
-Call 21
+- Call 21
 https://tensorboard.dev/experiment/y9MuyU77Tymi0Uz1Yb0NSA/
 					
-put5		
+- put5		
 https://tensorboard.dev/experiment/L208zOrlRziyfgiEm9RjjQ/#scalars
-Put21
+- Put21
 https://tensorboard.dev/experiment/L208zOrlRziyfgiEm9RjjQ/
 	
 * Model3:			

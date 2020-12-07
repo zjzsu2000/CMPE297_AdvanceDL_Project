@@ -45,6 +45,9 @@ https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZK
 ### LSTM model
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png)
 
+### MSE results
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/mse.png)
+
 ### results using WIX option to test
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_result.png)
 

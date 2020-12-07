@@ -1,14 +1,15 @@
 ## CMPE297_AdvanceDL_Project
 # Stock Options Prediction with Advanced Deep Learning
 
-https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/title.png
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/title.png
 ## Members:
 * Jacky
 * Jerry
 * Jumana
 
 ## Proposal
-[!image]https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Stock%20Options_Project_Proposal.pdf
+https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Stock%20Options_Project_Proposal.pdf
+
 In the investment terms options is a derivative which is derived from the price of
 another security. Another security can be a stock, a currency, rate or a commodity. This
 means that the price of options moves if the price of another security would move.
@@ -30,12 +31,67 @@ features for the scope of this project.
 -https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Data_Preprocessing
 ## Models and Results 
 -https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/models
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png
+
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_result.png
+
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Bid.png
+
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Ask.png
+
 
 ## Project Report and PPT presentation 
 - https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Documentation
 ### slides
 https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZKhY0/edit?usp=sharing
 ### report
+
+## Training process
+
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_tensorboard.png
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model2_call_WIX.png
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model2_put_all%EF%BC%88n400_batch1024_eposhs2400_lr1e-5).png
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_call_all%EF%BC%88n400_batch1024_eposhs2000_lr1e-5).png
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_call_all%EF%BC%88n400_batch1024_eposhs2000_lr1e-5).png
+![image] https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/model3_sigma5.png
+
+### TensorBoard
+* LSTM
+Put5
+https://tensorboard.dev/experiment/IN9XplUvRbqhaVBvCPIJSg/
+Put10
+https://tensorboard.dev/experiment/oQljEuYVSvOLPDi17AtRww/#scalars 
+Put21
+https://tensorboard.dev/experiment/h5KIjLjiQPmdk9cvD9JD6A/
+Call10
+https://tensorboard.dev/experiment/9tG0Hv68TmyaI7NBnbr2Ow/
+Call21
+https://tensorboard.dev/experiment/ZE4cErmZRXKKvUJRpHbjHQ/#scalars
+
+* Model2：			
+Call 5		
+https://tensorboard.dev/experiment/Bgx7f38NSgOtJQdNMXI9JA/#scalars
+call10	
+https://tensorboard.dev/experiment/y9MuyU77Tymi0Uz1Yb0NSA/#scalars
+Call 21
+https://tensorboard.dev/experiment/y9MuyU77Tymi0Uz1Yb0NSA/
+					
+put5		
+https://tensorboard.dev/experiment/L208zOrlRziyfgiEm9RjjQ/#scalars
+Put21
+https://tensorboard.dev/experiment/L208zOrlRziyfgiEm9RjjQ/
+	
+* Model3:			
+call5				
+https://tensorboard.dev/experiment/X4dEGe3NQbOBOU5vFzHQuw/
+Call21
+https://tensorboard.dev/experiment/V2WF49BDQlK1spQ21eedfA/
+
+Put5
+https://tensorboard.dev/experiment/RY5C4BGKRIKpndYhO4sdqg/
+Put21
+https://tensorboard.dev/experiment/9zzUE8NcQoySec6DarEo9g/
+
 
 ## Colabs, Datasets, Saved models
 - Google Drive

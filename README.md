@@ -58,16 +58,16 @@ https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZK
 
 ### TensorBoard
 * LSTM
-Put5
-https://tensorboard.dev/experiment/IN9XplUvRbqhaVBvCPIJSg/
-Put10
-https://tensorboard.dev/experiment/oQljEuYVSvOLPDi17AtRww/#scalars 
+-  Put5
+![link](https://tensorboard.dev/experiment/IN9XplUvRbqhaVBvCPIJSg/)
+-  Put10
+![link](https://tensorboard.dev/experiment/oQljEuYVSvOLPDi17AtRww/#scalars)
 Put21
-https://tensorboard.dev/experiment/h5KIjLjiQPmdk9cvD9JD6A/
-Call10
-https://tensorboard.dev/experiment/9tG0Hv68TmyaI7NBnbr2Ow/
-Call21
-https://tensorboard.dev/experiment/ZE4cErmZRXKKvUJRpHbjHQ/#scalars
+![link](https://tensorboard.dev/experiment/h5KIjLjiQPmdk9cvD9JD6A/)
+-  Call10
+![link](https://tensorboard.dev/experiment/9tG0Hv68TmyaI7NBnbr2Ow/)
+-  Call21
+![link](https://tensorboard.dev/experiment/ZE4cErmZRXKKvUJRpHbjHQ/#scalars)
 
 * Model2：			
 Call 5		

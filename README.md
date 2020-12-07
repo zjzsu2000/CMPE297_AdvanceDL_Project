@@ -1,7 +1,7 @@
 ## CMPE297_AdvanceDL_Project
 # Stock Options Prediction with Advanced Deep Learning
 
-![image] ( https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/title.png)
+![image]( https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/title.png)
 ## Members:
 * Jacky
 * Jerry

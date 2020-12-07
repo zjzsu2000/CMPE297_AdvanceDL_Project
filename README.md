@@ -28,9 +28,14 @@ features for the scope of this project.
 
 
 ## Data Preprocessing and Crawler 
+### code 
 -https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Data_Preprocessing
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/data_preprocessing.png)
+
 ## Models and Results 
+### code
 -https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/models
+
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png)
 
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_result.png)

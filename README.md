@@ -36,8 +36,10 @@ features for the scope of this project.
 ### code
 -https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/models
 
+### LSTM model
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png)
 
+### results using WIX option to test
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_result.png)
 
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Bid.png)

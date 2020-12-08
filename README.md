@@ -53,6 +53,8 @@ https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZK
 ### results using WIX option to test
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_result.png)
 
+![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model2_result.png)
+
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Bid.png)
 
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/Model3_result_Ask.png)

@@ -105,7 +105,8 @@ https://tensorboard.dev/experiment/9zzUE8NcQoySec6DarEo9g/
 
 
 ## Colabs, Datasets, Saved models
-- Google Drive
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/models/trained_h5_model_files
+- & Google Drive
 
 
 ## Future Work

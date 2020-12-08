@@ -29,7 +29,9 @@ features for the scope of this project.
 ## Project Report and PPT presentation 
 - https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Documentation
 ### slides
-https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZKhY0/edit?usp=sharing
+- https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZKhY0/edit?usp=sharing
+or
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/Options%20prediciting%20with%20advanced%20DL.pdf
 ### report
 
 

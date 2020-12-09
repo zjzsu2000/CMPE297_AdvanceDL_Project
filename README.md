@@ -21,7 +21,7 @@ price of an option. Options prediction can help in determining the investment be
 understanding the stock marketing better. In our model, we pick specific options of the
 stock. We need to consider the five important characteristics of the option
 stock-Underlying asset, Call vs. put, Strike price, Expiration date, and American vs.
-European. These five features are the input to our model and output of the model will be
+European. These five features are important to our model and output of the model will be
 the price. As we know there are many different strategies for options trading depending
 on what we want to get and how much risk we are willing to expound, we will limit the
 features for the scope of this project.

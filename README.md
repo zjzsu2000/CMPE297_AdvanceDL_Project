@@ -36,13 +36,16 @@ or
 - https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/02_report.pdf
 
 ## Data Preprocessing and Crawler 
-### code 
--https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/Data_Preprocessing
+
+### stocks picking
+https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/02_NASDAQ_Best_Stocks_picking_Using_Clustering
+### Preprocessing code 
+-https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/01_Data_Preprocessing
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/data_preprocessing.png)
 
 ## Models and Results 
 ### code
--https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/models
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/04_models_training
 
 ### LSTM model
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png)

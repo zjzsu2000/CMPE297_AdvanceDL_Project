@@ -47,6 +47,8 @@ https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/02_NASDAQ_Best_
 ### code
 - https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/04_models_training
 
+### testing
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/05_testing
 ### LSTM model
 ![image](https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/pics/LSTM_model.png)
 

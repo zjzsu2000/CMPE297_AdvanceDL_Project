@@ -31,9 +31,9 @@ features for the scope of this project.
 ### slides
 - https://docs.google.com/presentation/d/1TLyDg_THqW6SLe9ueSo-tYWTkLsFwSMV6-OCWgZKhY0/edit?usp=sharing
 or
-- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/Options%20prediciting%20with%20advanced%20DL.pdf
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/01_slides.pdf
 ### report
-
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/02_report.pdf
 
 ## Data Preprocessing and Crawler 
 ### code 
@@ -113,8 +113,13 @@ https://tensorboard.dev/experiment/9zzUE8NcQoySec6DarEo9g/
 
 
 ## Colabs, Datasets, Saved models
-- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/models/trained_h5_model_files
-- & Google Drive
+- https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/04_models_training
+
+- Datasets in Google Drive
+https://drive.google.com/drive/folders/1hBtQBkhc2l0ZTnMOHm49a-bAlLFT8Tl_?usp=sharing
+
+### Saved models
+https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/tree/main/04_models_training/trained_h5_model_files
 
 
 ## Future Work

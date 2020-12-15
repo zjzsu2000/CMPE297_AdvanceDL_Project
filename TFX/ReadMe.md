@@ -1,4 +1,20 @@
 # TFX
+
+Steps to run Colab Final_version_TFX.ipynb-
+
+**Requirements-** 
+
+- TensorFlow version: 2.3.0
+
+- TFX version: 0.25.0
+
+**Dataset link-** 
+train_="/content/gdrive/MyDrive/DL_project/dataset/data_for_tfx.csv"
+
+[Link-]https://drive.google.com/file/d/19D6B4hFz0R3egTP18Bmm-Lo1i2gflqsd/view?usp=sharing
+
+
+
 **TFX end-to-end Pipeline with Model Training** 
 
 

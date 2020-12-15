@@ -3,3 +3,5 @@ https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/0
 
 # 2) Report
 https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/02_report.pdf
+
+<center><embed src="https://github.com/zjzsu2000/CMPE297_AdvanceDL_Project/blob/main/Documentation/02_report.pdf" width="850" height="600"></center>
